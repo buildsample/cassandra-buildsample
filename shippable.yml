@@ -11,3 +11,4 @@ script:
   - ruby sample.rb
   - cassandra-cli -host localhost -port 9160 -f removeKeyspace.txt
   - cat ~/.gitconfig
+after_failure: echo $BUILD
