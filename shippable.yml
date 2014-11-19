@@ -4,6 +4,7 @@ services:
   - cassandra
 
 
+
 install:
   - gem install cassandra
   
