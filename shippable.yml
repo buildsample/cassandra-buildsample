@@ -1,4 +1,4 @@
-language: 1ruby
+language: ruby
 
 services:
   - cassandra
