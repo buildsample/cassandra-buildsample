@@ -1,8 +1,6 @@
 language: ruby
-
 env:
   - secure: UvFGkQYS3Z9Cg7L9qELnbSC1T9rg+MvRMtvgTDL4Zr8vIw8DLbxUwjlJe8FwIRXD1GL+AWDPK7dikpGfTFRL1cUAPsMmMKGjhRqlBFk7ozIggLzl8qqWkTBLdjpzaHo9v3E/tx51soxe1FAB7mzgFiICDzz6cVt0luSPRpYF0xbzvznvuYJVaybfD0Du9rEdj6jbn3w4vZEuH1zOJOfykmQV7UBJ7vHd10nafush9AgyG0ZtdetCSAN8APewGVm4KqHauqe0ehNu6baB/3c1hC37tWkQUdSUDMq2nDJ+QLgON0lbkn8/uMVpfiAJ3B7BoMPAZ1nliZppU2fU3trywA== 
-
 services:
   - cassandra
 
